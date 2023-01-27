@@ -1,6 +1,8 @@
 # SharPaint
 A simple paint application built using C#
 
+![sharpaint img](https://raw.githubusercontent.com/xVice/storage/ae4d0344f6e180eff2f540eeef614955d308c504/fileformat.PNG)
+
 Features
 - Pen tool for drawing
 - Magic tool, selects a specific color with a tolerance.
